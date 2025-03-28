@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Exports Menus to CSV
-Plugin URI: https://marelle.eu/
+Plugin URI: https://github.com/webteammarelle/WP-Exports-Menus-to-CSV.git
 Description: Exports all site menus to a CSV file with sanitized columns: menu_name, title, url, order, item_id, parent_id. Access is restricted to administrators.
 Version: 1.0
 Author: Marelle
